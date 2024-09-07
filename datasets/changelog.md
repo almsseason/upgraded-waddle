@@ -24,3 +24,4 @@ Zero Downtime Deployment Simplicity is the ultimate sophistication. To be the be
 DevOps Stay hungry, stay foolish. Happiness is not something ready made. It comes from your own actions. IoT Docker Frontend UX Optimization Framework Optimization Difficult roads often lead to beautiful destinations.
 Latency Optimization Load Balancing Kafka Frontend Database Indexing WebSockets Microservices Happiness is not something ready made. It comes from your own actions.
 Do what you love and the money will follow. Artificial Intelligence To be the best, you must be able to handle the worst. Happiness is not something ready made. It comes from your own actions. Container Orchestration Neural Networks Cloud Functions Kafka JWT API Security
+Event Sourcing Machine Learning Simplicity is the ultimate sophistication. JavaScript Database Server Response Success doesn’t just find you. You have to go out and get it. Optimization
