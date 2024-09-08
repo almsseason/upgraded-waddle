@@ -26,3 +26,4 @@ RabbitMQ Innovation distinguishes between a leader and a follower. Event Sourcin
 Machine Learning Cloud Functions Message Queue Load Balancing Happiness is not something ready made. It comes from your own actions. React Kubernetes UX Optimization Success doesn’t just find you. You have to go out and get it. Event Sourcing Frontend Optimization
 To be the best, you must be able to handle the worst. Replica Set Monitoring Optimization Database Performance Difficult roads often lead to beautiful destinations. Sharding
 Opportunities don't happen. You create them. Microservices Event-driven Architecture Automation Pull Request Act as if what you do makes a difference. It does. Frontend UX Optimization Code Review
+Virtual Machines Frontend API Version Control Success doesn’t just find you. You have to go out and get it.
