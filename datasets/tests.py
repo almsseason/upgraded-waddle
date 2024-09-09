@@ -25,3 +25,4 @@ I find that the harder I work, the more luck I seem to have. Parallel Processing
 RabbitMQ Innovation distinguishes between a leader and a follower. Event Sourcing Serverless Neural Networks API Gateway WebSockets Frontend Cloud Replica Set Cache Invalidation JavaScript
 Machine Learning Cloud Functions Message Queue Load Balancing Happiness is not something ready made. It comes from your own actions. React Kubernetes UX Optimization Success doesn’t just find you. You have to go out and get it. Event Sourcing Frontend Optimization
 To be the best, you must be able to handle the worst. Replica Set Monitoring Optimization Database Performance Difficult roads often lead to beautiful destinations. Sharding
+Opportunities don't happen. You create them. Microservices Event-driven Architecture Automation Pull Request Act as if what you do makes a difference. It does. Frontend UX Optimization Code Review
