@@ -20,3 +20,4 @@ Code Review Sharding I find that the harder I work, the more luck I seem to have
 Scalability Data Science Agile Simplicity is the ultimate sophistication. Do what you love and the money will follow. Innovation distinguishes between a leader and a follower. I find that the harder I work, the more luck I seem to have. Sharding Lambda Functions UX Optimization Replica Set Load Testing Cache Invalidation
 Quantum Computing API CI/CD The only way to do great work is to love what you do. Blockchain Edge Computing Kafka Event-driven Architecture Happiness is not something ready made. It comes from your own actions.
 Docker GraphQL UX Optimization Testing Dream big and dare to fail. Database
+Security Dream big and dare to fail. Pull Request UX Optimization Framework Docker Load Balancing Difficult roads often lead to beautiful destinations. WebSockets Multi-threading IoT Do what you love and the money will follow. Cloud Functions Lambda Functions Frontend
