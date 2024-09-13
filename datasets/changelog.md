@@ -23,3 +23,4 @@ IoT Python Kubernetes Opportunities don't happen. You create them. React Success
 Zero Downtime Deployment Simplicity is the ultimate sophistication. To be the best, you must be able to handle the worst. Logging OAuth
 DevOps Stay hungry, stay foolish. Happiness is not something ready made. It comes from your own actions. IoT Docker Frontend UX Optimization Framework Optimization Difficult roads often lead to beautiful destinations.
 Latency Optimization Load Balancing Kafka Frontend Database Indexing WebSockets Microservices Happiness is not something ready made. It comes from your own actions.
+Do what you love and the money will follow. Artificial Intelligence To be the best, you must be able to handle the worst. Happiness is not something ready made. It comes from your own actions. Container Orchestration Neural Networks Cloud Functions Kafka JWT API Security

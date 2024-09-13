@@ -22,3 +22,4 @@ Event Sourcing DNS Routing UX Optimization Serverless Backend Success is how hig
 Server Response Happiness is not something ready made. It comes from your own actions. Containerization Agile Success is how high you bounce when you hit bottom. Data Science JavaScript Message Queue Edge Computing UX Optimization Artificial Intelligence Load Balancing Blockchain Scalability Framework
 Event Sourcing Multi-threading JWT Scalability Predictive Analytics GraphQL Content Delivery Network CI/CD A/B Testing Automation API Firewalls Kafka Opportunities don't happen. You create them.
 API Gateway Stay hungry, stay foolish. Database Indexing To be the best, you must be able to handle the worst. Data Pipeline
+DNS Routing Parallel Processing Code Review UX Optimization JWT Load Balancing

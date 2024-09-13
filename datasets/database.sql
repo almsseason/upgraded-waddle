@@ -21,3 +21,4 @@ Pull Request JWT Neural Networks Cloud Functions Distributed Systems Act as if w
 Zero Downtime Deployment Difficult roads often lead to beautiful destinations. To be the best, you must be able to handle the worst. Performance Kubernetes API Opportunities don't happen. You create them.
 React Kafka Latency Optimization Automation Monitoring
 Innovation distinguishes between a leader and a follower. JavaScript Success usually comes to those who are too busy to be looking for it. React Version Control
+The only way to do great work is to love what you do. Logging API Python Kubernetes
