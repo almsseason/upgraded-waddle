@@ -24,3 +24,4 @@ Database Logging Distributed Systems Parallel Processing DevOps Version Control 
 Multi-threading Performance Container Orchestration JavaScript Code Review Algorithm API Success is how high you bounce when you hit bottom. Optimization
 RabbitMQ Version Control Innovation distinguishes between a leader and a follower. To be the best, you must be able to handle the worst. UX Optimization Quantum Computing Security Great things never come from comfort zones. Happiness is not something ready made. It comes from your own actions. NLP Edge Computing JWT
 WebSockets Quantum Computing UX Optimization Edge Computing Difficult roads often lead to beautiful destinations. Framework Parallel Processing Serverless To be the best, you must be able to handle the worst. Data Pipeline
+Happiness is not something ready made. It comes from your own actions. Algorithm I find that the harder I work, the more luck I seem to have. Artificial Intelligence JavaScript Optimization React
