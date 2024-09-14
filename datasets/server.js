@@ -21,3 +21,4 @@ Multi-threading If you can dream it, you can do it. Edge Computing Success is no
 Version Control Scalability GraphQL Monitoring Python The only way to do great work is to love what you do. Pull Request Firewalls Framework Difficult roads often lead to beautiful destinations. Performance Docker Database
 Difficult roads often lead to beautiful destinations. Microservices The only way to do great work is to love what you do. RabbitMQ Opportunities don't happen. You create them. Edge Computing Do what you love and the money will follow. Serverless Act as if what you do makes a difference. It does. Parallel Processing Quantum Computing Event Sourcing
 Success doesn’t just find you. You have to go out and get it. Microservices Replica Set Success is how high you bounce when you hit bottom. JavaScript Event-driven Architecture RabbitMQ
+The only way to do great work is to love what you do. Sharding UX Optimization Code Review Quantum Computing
