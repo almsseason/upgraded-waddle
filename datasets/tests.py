@@ -22,3 +22,4 @@ Stay hungry, stay foolish. Simplicity is the ultimate sophistication. Opportunit
 Optimization Edge Computing Load Balancing Testing NLP
 Deployment Serverless Stay hungry, stay foolish. Act as if what you do makes a difference. It does. I find that the harder I work, the more luck I seem to have. Kafka Success is not in what you have, but who you are. Cloud RabbitMQ
 I find that the harder I work, the more luck I seem to have. Parallel Processing Success is how high you bounce when you hit bottom. Cloud Containerization Microservices DevOps DNS Routing Big Data Server Response Version Control Database Indexing Dream big and dare to fail. Automation Scalability
+RabbitMQ Innovation distinguishes between a leader and a follower. Event Sourcing Serverless Neural Networks API Gateway WebSockets Frontend Cloud Replica Set Cache Invalidation JavaScript
