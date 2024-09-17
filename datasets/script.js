@@ -16,3 +16,4 @@ Firewalls Frontend Sharding Code Review Docker DevOps Load Testing Edge Computin
 RabbitMQ The only way to do great work is to love what you do. Microservices Cloud Logging
 Cloud Functions Database UX Optimization Cache Invalidation Logging Scalability Containerization Kubernetes Don't be afraid to give up the good to go for the great. The only way to do great work is to love what you do. Lambda Functions RabbitMQ
 Do what you love and the money will follow. Lambda Functions Multi-threading Firewalls Framework Sharding
+Happiness is not something ready made. It comes from your own actions. Zero Downtime Deployment Kubernetes Python Don't be afraid to give up the good to go for the great.

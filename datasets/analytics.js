@@ -22,3 +22,4 @@ Kafka Containerization Optimization If you can dream it, you can do it. Frontend
 Database Indexing Parallel Processing Scalability RabbitMQ WebSockets Work hard in silence, let your success be your noise. Content Delivery Network Pull Request Deployment
 Backend Edge Computing Cloud Distributed Systems Lambda Functions Happiness is not something ready made. It comes from your own actions. JavaScript Zero Downtime Deployment
 Opportunities don't happen. You create them. Predictive Analytics Database Message Queue API Gateway Cloud GraphQL IoT Database Indexing Work hard in silence, let your success be your noise. Data Pipeline Logging Do what you love and the money will follow. Cache Invalidation Testing
+Kafka React Latency Optimization Distributed Systems CI/CD Zero Downtime Deployment DNS Routing
