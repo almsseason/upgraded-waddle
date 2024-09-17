@@ -15,3 +15,4 @@ Cloud Functions Firewalls API Load Balancing React Latency Optimization Microser
 Firewalls Frontend Sharding Code Review Docker DevOps Load Testing Edge Computing Data Science Act as if what you do makes a difference. It does. Scalability Cache Invalidation
 RabbitMQ The only way to do great work is to love what you do. Microservices Cloud Logging
 Cloud Functions Database UX Optimization Cache Invalidation Logging Scalability Containerization Kubernetes Don't be afraid to give up the good to go for the great. The only way to do great work is to love what you do. Lambda Functions RabbitMQ
+Do what you love and the money will follow. Lambda Functions Multi-threading Firewalls Framework Sharding
