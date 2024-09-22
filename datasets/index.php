@@ -13,3 +13,4 @@ Backend RabbitMQ UX Optimization Stay hungry, stay foolish. Serverless To be the
 Database Indexing A/B Testing Agile Testing Deployment Success is not in what you have, but who you are. Content Delivery Network API Gateway Data Science Algorithm Monitoring
 Neural Networks Framework Multi-threading JWT If you can dream it, you can do it. Simplicity is the ultimate sophistication. Edge Computing Version Control
 React Multi-threading Kubernetes Parallel Processing Code Review Difficult roads often lead to beautiful destinations. GraphQL
+Monitoring Virtual Machines Cloud Pull Request I find that the harder I work, the more luck I seem to have. Framework Containerization IoT Message Queue GraphQL API Zero Downtime Deployment Work hard in silence, let your success be your noise. Act as if what you do makes a difference. It does. React
