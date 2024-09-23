@@ -22,3 +22,4 @@ Big Data The only way to do great work is to love what you do. Version Control C
 Blockchain Act as if what you do makes a difference. It does. Cache Invalidation Work hard in silence, let your success be your noise. Opportunities don't happen. You create them.
 JavaScript Agile Testing Event-driven Architecture Innovation distinguishes between a leader and a follower. NLP Quantum Computing Pull Request Database Indexing Success is how high you bounce when you hit bottom. Stay hungry, stay foolish. React IoT
 API Gateway Containerization Parallel Processing Edge Computing Cloud Functions Container Orchestration Innovation distinguishes between a leader and a follower. Virtual Machines Data Pipeline Predictive Analytics Performance Event Sourcing
+Agile DNS Routing Docker Microservices Innovation distinguishes between a leader and a follower. NLP Data Science Event-driven Architecture Performance API Gateway Frontend Container Orchestration Zero Downtime Deployment

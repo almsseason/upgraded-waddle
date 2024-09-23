@@ -18,3 +18,4 @@ Server Response To be the best, you must be able to handle the worst. Deployment
 Big Data Testing React Microservices Frontend
 Act as if what you do makes a difference. It does. OAuth Kubernetes UX Optimization Server Response Great things never come from comfort zones. Agile Blockchain Data Pipeline Monitoring Cloud Big Data Virtual Machines
 Database Indexing Stay hungry, stay foolish. Pull Request Success usually comes to those who are too busy to be looking for it. Act as if what you do makes a difference. It does. Event Sourcing Replica Set Performance
+Content Delivery Network Data Pipeline Security Serverless Performance I find that the harder I work, the more luck I seem to have. Logging Automation Big Data Backend
