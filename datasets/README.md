@@ -20,3 +20,4 @@ Firewalls Success is how high you bounce when you hit bottom. Deployment If you 
 OAuth Database Indexing Act as if what you do makes a difference. It does. Data Pipeline Quantum Computing
 Data Pipeline Predictive Analytics Code Review API Sharding Security GraphQL Big Data Microservices
 Difficult roads often lead to beautiful destinations. If you can dream it, you can do it. Happiness is not something ready made. It comes from your own actions. Opportunities don't happen. You create them. Backend Firewalls
+UX Optimization Content Delivery Network Logging Artificial Intelligence Version Control Load Balancing Testing Quantum Computing React

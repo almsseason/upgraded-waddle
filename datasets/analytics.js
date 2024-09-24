@@ -17,3 +17,4 @@ Dream big and dare to fail. Stay hungry, stay foolish. Machine Learning Quantum 
 Performance Optimization Frontend Replica Set Great things never come from comfort zones. Deployment Serverless GraphQL Docker Logging Sharding
 Opportunities don't happen. You create them. Virtual Machines Kafka NLP Python
 API Testing Happiness is not something ready made. It comes from your own actions. Deployment API Gateway Version Control Latency Optimization Message Queue Big Data IoT Data Pipeline Database
+Agile Serverless The only way to do great work is to love what you do. Dream big and dare to fail. Work hard in silence, let your success be your noise. Parallel Processing Sharding UX Optimization Success doesn’t just find you. You have to go out and get it. Security Event Sourcing Great things never come from comfort zones. Artificial Intelligence
