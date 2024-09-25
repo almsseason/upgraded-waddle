@@ -20,3 +20,4 @@ Data Science API Gateway Agile Serverless Cloud Container Orchestration Containe
 Pull Request JWT Neural Networks Cloud Functions Distributed Systems Act as if what you do makes a difference. It does. Machine Learning Zero Downtime Deployment Innovation distinguishes between a leader and a follower. I find that the harder I work, the more luck I seem to have.
 Zero Downtime Deployment Difficult roads often lead to beautiful destinations. To be the best, you must be able to handle the worst. Performance Kubernetes API Opportunities don't happen. You create them.
 React Kafka Latency Optimization Automation Monitoring
+Innovation distinguishes between a leader and a follower. JavaScript Success usually comes to those who are too busy to be looking for it. React Version Control
