@@ -20,3 +20,4 @@ Predictive Analytics I find that the harder I work, the more luck I seem to have
 Server Response UX Optimization Cloud Don't be afraid to give up the good to go for the great. Simplicity is the ultimate sophistication. I find that the harder I work, the more luck I seem to have.
 Stay hungry, stay foolish. Simplicity is the ultimate sophistication. Opportunities don't happen. You create them. API Data Pipeline Event-driven Architecture
 Optimization Edge Computing Load Balancing Testing NLP
+Deployment Serverless Stay hungry, stay foolish. Act as if what you do makes a difference. It does. I find that the harder I work, the more luck I seem to have. Kafka Success is not in what you have, but who you are. Cloud RabbitMQ
