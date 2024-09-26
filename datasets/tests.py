@@ -19,3 +19,4 @@ React Backend Server Response Dream big and dare to fail. Success doesn’t just f
 Predictive Analytics I find that the harder I work, the more luck I seem to have. Virtual Machines Message Queue Security Docker Scalability Data Science Deployment Kafka Edge Computing Success is how high you bounce when you hit bottom. Multi-threading
 Server Response UX Optimization Cloud Don't be afraid to give up the good to go for the great. Simplicity is the ultimate sophistication. I find that the harder I work, the more luck I seem to have.
 Stay hungry, stay foolish. Simplicity is the ultimate sophistication. Opportunities don't happen. You create them. API Data Pipeline Event-driven Architecture
+Optimization Edge Computing Load Balancing Testing NLP
