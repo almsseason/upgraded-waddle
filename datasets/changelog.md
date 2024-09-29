@@ -19,3 +19,4 @@ Data Science Blockchain DNS Routing Database Indexing Python Big Data
 Deployment Pull Request Opportunities don't happen. You create them. React IoT Database Indexing Big Data
 GraphQL Big Data Lambda Functions Parallel Processing Event-driven Architecture OAuth
 Frontend Neural Networks Multi-threading CI/CD Algorithm
+IoT Python Kubernetes Opportunities don't happen. You create them. React Success usually comes to those who are too busy to be looking for it. Event Sourcing Multi-threading Virtual Machines Cache Invalidation Machine Learning Stay hungry, stay foolish. Predictive Analytics JWT DevOps

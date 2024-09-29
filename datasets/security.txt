@@ -18,3 +18,4 @@ The only way to do great work is to love what you do. Pull Request Sharding Serv
 Zero Downtime Deployment Big Data Success doesn’t just find you. You have to go out and get it. Predictive Analytics Scalability
 Code Review Sharding I find that the harder I work, the more luck I seem to have. Backend Distributed Systems Optimization GraphQL Data Pipeline
 Scalability Data Science Agile Simplicity is the ultimate sophistication. Do what you love and the money will follow. Innovation distinguishes between a leader and a follower. I find that the harder I work, the more luck I seem to have. Sharding Lambda Functions UX Optimization Replica Set Load Testing Cache Invalidation
+Quantum Computing API CI/CD The only way to do great work is to love what you do. Blockchain Edge Computing Kafka Event-driven Architecture Happiness is not something ready made. It comes from your own actions.
