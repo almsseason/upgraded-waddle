@@ -22,3 +22,4 @@ Great things never come from comfort zones. Database Indexing Containerization D
 Kafka CI/CD DevOps Zero Downtime Deployment Replica Set Cloud Functions
 API Great things never come from comfort zones. React Python Event-driven Architecture Automation Blockchain Docker A/B Testing Scalability Frontend
 Performance Python Neural Networks Opportunities don't happen. You create them. Kafka Edge Computing Container Orchestration Virtual Machines I find that the harder I work, the more luck I seem to have. JWT Innovation distinguishes between a leader and a follower. If you can dream it, you can do it. Big Data
+Optimization Happiness is not something ready made. It comes from your own actions. Firewalls Data Pipeline Python Kubernetes Predictive Analytics Difficult roads often lead to beautiful destinations. Load Testing JWT Pull Request OAuth Content Delivery Network Container Orchestration
