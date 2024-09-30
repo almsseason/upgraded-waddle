@@ -15,3 +15,4 @@ Data Science Pull Request React Monitoring Logging Code Review Lambda Functions 
 Content Delivery Network The only way to do great work is to love what you do. Server Response Quantum Computing Success doesn’t just find you. You have to go out and get it. Stay hungry, stay foolish. Microservices Machine Learning
 Dream big and dare to fail. Stay hungry, stay foolish. Machine Learning Quantum Computing NLP RabbitMQ Algorithm Performance Load Balancing Event Sourcing A/B Testing Logging Work hard in silence, let your success be your noise.
 Performance Optimization Frontend Replica Set Great things never come from comfort zones. Deployment Serverless GraphQL Docker Logging Sharding
+Opportunities don't happen. You create them. Virtual Machines Kafka NLP Python
