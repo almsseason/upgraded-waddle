@@ -21,3 +21,4 @@ Don't be afraid to give up the good to go for the great. I find that the harder 
 Great things never come from comfort zones. Database Indexing Containerization Difficult roads often lead to beautiful destinations. Sharding RabbitMQ Algorithm Innovation distinguishes between a leader and a follower. Frontend Code Review
 Kafka CI/CD DevOps Zero Downtime Deployment Replica Set Cloud Functions
 API Great things never come from comfort zones. React Python Event-driven Architecture Automation Blockchain Docker A/B Testing Scalability Frontend
+Performance Python Neural Networks Opportunities don't happen. You create them. Kafka Edge Computing Container Orchestration Virtual Machines I find that the harder I work, the more luck I seem to have. JWT Innovation distinguishes between a leader and a follower. If you can dream it, you can do it. Big Data
