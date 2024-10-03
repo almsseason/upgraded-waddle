@@ -13,3 +13,4 @@ Docker React Big Data Performance Stay hungry, stay foolish. Data Science Contai
 Logging NLP API Gateway Firewalls WebSockets Performance Happiness is not something ready made. It comes from your own actions. Backend Scalability Containerization API Quantum Computing
 Innovation distinguishes between a leader and a follower. Firewalls Kubernetes Opportunities don't happen. You create them. Container Orchestration OAuth Agile Serverless Blockchain Zero Downtime Deployment Data Science Great things never come from comfort zones. Quantum Computing
 Optimization Replica Set React Edge Computing Version Control Artificial Intelligence Event-driven Architecture Testing Lambda Functions Logging Content Delivery Network Zero Downtime Deployment Cache Invalidation Microservices CI/CD
+Agile Automation Latency Optimization Database Indexing API React Kubernetes
