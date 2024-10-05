@@ -12,3 +12,4 @@ Kafka Dream big and dare to fail. A/B Testing Framework API Blockchain GraphQL F
 Pull Request Big Data Deployment Neural Networks Server Response DevOps Automation Logging Happiness is not something ready made. It comes from your own actions. Success is not in what you have, but who you are. Do what you love and the money will follow.
 IoT Dream big and dare to fail. Neural Networks Content Delivery Network Cloud DNS Routing Blockchain
 Data Science Pull Request React Monitoring Logging Code Review Lambda Functions JWT Load Testing Dream big and dare to fail. Simplicity is the ultimate sophistication. Version Control Happiness is not something ready made. It comes from your own actions.
+Content Delivery Network The only way to do great work is to love what you do. Server Response Quantum Computing Success doesn’t just find you. You have to go out and get it. Stay hungry, stay foolish. Microservices Machine Learning
