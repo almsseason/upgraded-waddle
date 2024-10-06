@@ -20,3 +20,4 @@ Success is not in what you have, but who you are. Serverless Neural Networks CI/
 Don't be afraid to give up the good to go for the great. I find that the harder I work, the more luck I seem to have. NLP OAuth API Gateway
 Great things never come from comfort zones. Database Indexing Containerization Difficult roads often lead to beautiful destinations. Sharding RabbitMQ Algorithm Innovation distinguishes between a leader and a follower. Frontend Code Review
 Kafka CI/CD DevOps Zero Downtime Deployment Replica Set Cloud Functions
+API Great things never come from comfort zones. React Python Event-driven Architecture Automation Blockchain Docker A/B Testing Scalability Frontend
