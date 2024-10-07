@@ -18,3 +18,4 @@ Message Queue Frontend Act as if what you do makes a difference. It does. Rabbit
 Data Science Blockchain DNS Routing Database Indexing Python Big Data
 Deployment Pull Request Opportunities don't happen. You create them. React IoT Database Indexing Big Data
 GraphQL Big Data Lambda Functions Parallel Processing Event-driven Architecture OAuth
+Frontend Neural Networks Multi-threading CI/CD Algorithm
