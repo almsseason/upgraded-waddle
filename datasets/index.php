@@ -12,3 +12,4 @@ Security Framework Stay hungry, stay foolish. CI/CD Container Orchestration Test
 Backend RabbitMQ UX Optimization Stay hungry, stay foolish. Serverless To be the best, you must be able to handle the worst. Happiness is not something ready made. It comes from your own actions. Dream big and dare to fail. Server Response JavaScript Lambda Functions NLP Scalability Monitoring
 Database Indexing A/B Testing Agile Testing Deployment Success is not in what you have, but who you are. Content Delivery Network API Gateway Data Science Algorithm Monitoring
 Neural Networks Framework Multi-threading JWT If you can dream it, you can do it. Simplicity is the ultimate sophistication. Edge Computing Version Control
+React Multi-threading Kubernetes Parallel Processing Code Review Difficult roads often lead to beautiful destinations. GraphQL
