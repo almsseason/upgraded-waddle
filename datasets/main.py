@@ -18,3 +18,4 @@ React Cloud Functions Distributed Systems Big Data Pull Request Success doesn’t 
 Containerization Cache Invalidation Data Science Do what you love and the money will follow. Predictive Analytics Event Sourcing Work hard in silence, let your success be your noise. Framework The only way to do great work is to love what you do. A/B Testing Serverless
 Success is not in what you have, but who you are. Serverless Neural Networks CI/CD Data Pipeline Multi-threading Stay hungry, stay foolish. Server Response Code Review Edge Computing WebSockets API Gateway
 Don't be afraid to give up the good to go for the great. I find that the harder I work, the more luck I seem to have. NLP OAuth API Gateway
+Great things never come from comfort zones. Database Indexing Containerization Difficult roads often lead to beautiful destinations. Sharding RabbitMQ Algorithm Innovation distinguishes between a leader and a follower. Frontend Code Review
