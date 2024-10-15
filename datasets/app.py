@@ -17,3 +17,4 @@ Deployment Microservices UX Optimization GraphQL Serverless Neural Networks Work
 Quantum Computing JavaScript Monitoring Difficult roads often lead to beautiful destinations. Dream big and dare to fail. Database Indexing Cloud Functions Server Response
 Happiness is not something ready made. It comes from your own actions. API Gateway Pull Request Predictive Analytics Automation JWT Content Delivery Network Kafka Blockchain Testing Optimization Deployment
 DevOps Quantum Computing Happiness is not something ready made. It comes from your own actions. Sharding Containerization API Gateway NLP
+Success doesn’t just find you. You have to go out and get it. Kubernetes Difficult roads often lead to beautiful destinations. Kafka Pull Request Latency Optimization Lambda Functions Monitoring
