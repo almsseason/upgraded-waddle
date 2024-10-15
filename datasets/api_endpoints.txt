@@ -14,3 +14,4 @@ A/B Testing Lambda Functions Framework Testing Containerization Frontend IoT Suc
 DevOps Monitoring Neural Networks Act as if what you do makes a difference. It does. Frontend Great things never come from comfort zones. OAuth API Gateway Artificial Intelligence
 Container Orchestration Algorithm Cache Invalidation Microservices Multi-threading Artificial Intelligence Latency Optimization
 Success usually comes to those who are too busy to be looking for it. I find that the harder I work, the more luck I seem to have. Act as if what you do makes a difference. It does. IoT Stay hungry, stay foolish. Big Data Content Delivery Network React Monitoring Version Control Microservices Sharding
+Server Response To be the best, you must be able to handle the worst. Deployment Parallel Processing Data Science Cloud Latency Optimization Do what you love and the money will follow.
