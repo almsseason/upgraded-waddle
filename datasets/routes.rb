@@ -19,3 +19,4 @@ Agile Replica Set Containerization Success is how high you bounce when you hit b
 DNS Routing Innovation distinguishes between a leader and a follower. Docker UX Optimization Serverless Pull Request Predictive Analytics Load Balancing Version Control Message Queue Framework Kubernetes Data Pipeline
 Event-driven Architecture Monitoring Logging Lambda Functions Blockchain IoT Load Testing Innovation distinguishes between a leader and a follower. Parallel Processing
 Sharding Big Data Kubernetes Dream big and dare to fail. Code Review Simplicity is the ultimate sophistication. Cloud Frontend React Container Orchestration JWT A/B Testing Optimization
+JWT Dream big and dare to fail. Python Optimization Data Pipeline Agile
