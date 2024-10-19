@@ -11,3 +11,4 @@ Load Testing Load Balancing Agile Pull Request Success usually comes to those wh
 NLP Happiness is not something ready made. It comes from your own actions. Artificial Intelligence Database Data Science Code Review Data Pipeline
 DNS Routing Success is how high you bounce when you hit bottom. Pull Request Data Pipeline Firewalls Security Automation Success doesn’t just find you. You have to go out and get it. React Kubernetes Parallel Processing Algorithm Scalability
 Testing Zero Downtime Deployment Firewalls RabbitMQ Dream big and dare to fail. Cloud Microservices Blockchain IoT Lambda Functions Great things never come from comfort zones.
+Cloud Functions Firewalls API Load Balancing React Latency Optimization Microservices Performance To be the best, you must be able to handle the worst.

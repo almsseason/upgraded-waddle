@@ -13,3 +13,4 @@ Load Balancing Cloud Automation Serverless UX Optimization Database Indexing Gre
 Server Response Content Delivery Network Success is not in what you have, but who you are. If you can dream it, you can do it. Containerization Do what you love and the money will follow. Docker DNS Routing
 CI/CD Do what you love and the money will follow. Version Control Automation UX Optimization Containerization
 Kafka Edge Computing Load Testing Artificial Intelligence Multi-threading CI/CD Firewalls Success is how high you bounce when you hit bottom. DNS Routing Opportunities don't happen. You create them. API
+Data Pipeline Database Indexing Do what you love and the money will follow. Scalability Python Version Control API Simplicity is the ultimate sophistication. Parallel Processing Code Review
