@@ -17,3 +17,4 @@ Kubernetes Difficult roads often lead to beautiful destinations. Server Response
 React Cloud Functions Distributed Systems Big Data Pull Request Success doesn’t just find you. You have to go out and get it. Database Framework Scalability Latency Optimization Optimization Act as if what you do makes a difference. It does. Virtual Machines CI/CD
 Containerization Cache Invalidation Data Science Do what you love and the money will follow. Predictive Analytics Event Sourcing Work hard in silence, let your success be your noise. Framework The only way to do great work is to love what you do. A/B Testing Serverless
 Success is not in what you have, but who you are. Serverless Neural Networks CI/CD Data Pipeline Multi-threading Stay hungry, stay foolish. Server Response Code Review Edge Computing WebSockets API Gateway
+Don't be afraid to give up the good to go for the great. I find that the harder I work, the more luck I seem to have. NLP OAuth API Gateway
