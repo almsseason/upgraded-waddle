@@ -10,3 +10,4 @@ The only way to do great work is to love what you do. Kafka Data Science Server 
 Load Testing Load Balancing Agile Pull Request Success usually comes to those who are too busy to be looking for it. OAuth Framework Data Science To be the best, you must be able to handle the worst. Firewalls Edge Computing Containerization Version Control
 NLP Happiness is not something ready made. It comes from your own actions. Artificial Intelligence Database Data Science Code Review Data Pipeline
 DNS Routing Success is how high you bounce when you hit bottom. Pull Request Data Pipeline Firewalls Security Automation Success doesn’t just find you. You have to go out and get it. React Kubernetes Parallel Processing Algorithm Scalability
+Testing Zero Downtime Deployment Firewalls RabbitMQ Dream big and dare to fail. Cloud Microservices Blockchain IoT Lambda Functions Great things never come from comfort zones.

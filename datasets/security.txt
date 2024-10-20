@@ -16,3 +16,4 @@ Optimization Algorithm JWT Testing Microservices CI/CD Success doesn’t just find
 Latency Optimization Data Pipeline Monitoring Database Indexing Sharding Load Balancing Difficult roads often lead to beautiful destinations. Python Lambda Functions Dream big and dare to fail. Multi-threading
 The only way to do great work is to love what you do. Pull Request Sharding Serverless Docker WebSockets OAuth Security Multi-threading Automation React Performance Algorithm Optimization
 Zero Downtime Deployment Big Data Success doesn’t just find you. You have to go out and get it. Predictive Analytics Scalability
+Code Review Sharding I find that the harder I work, the more luck I seem to have. Backend Distributed Systems Optimization GraphQL Data Pipeline
