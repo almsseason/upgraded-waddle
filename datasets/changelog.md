@@ -17,3 +17,4 @@ WebSockets React Code Review Kubernetes To be the best, you must be able to hand
 Message Queue Frontend Act as if what you do makes a difference. It does. RabbitMQ Don't be afraid to give up the good to go for the great. Server Response Latency Optimization Lambda Functions Version Control Success usually comes to those who are too busy to be looking for it. Success doesn’t just find you. You have to go out and get it. JavaScript
 Data Science Blockchain DNS Routing Database Indexing Python Big Data
 Deployment Pull Request Opportunities don't happen. You create them. React IoT Database Indexing Big Data
+GraphQL Big Data Lambda Functions Parallel Processing Event-driven Architecture OAuth
