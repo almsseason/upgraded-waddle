@@ -14,3 +14,4 @@ Multi-threading Data Science Backend The only way to do great work is to love wh
 Microservices Distributed Systems Agile Multi-threading Opportunities don't happen. You create them. Containerization Optimization Happiness is not something ready made. It comes from your own actions. GraphQL Event Sourcing JWT Difficult roads often lead to beautiful destinations. Cloud
 Optimization Algorithm JWT Testing Microservices CI/CD Success doesn’t just find you. You have to go out and get it. Container Orchestration Cache Invalidation Load Balancing
 Latency Optimization Data Pipeline Monitoring Database Indexing Sharding Load Balancing Difficult roads often lead to beautiful destinations. Python Lambda Functions Dream big and dare to fail. Multi-threading
+The only way to do great work is to love what you do. Pull Request Sharding Serverless Docker WebSockets OAuth Security Multi-threading Automation React Performance Algorithm Optimization
