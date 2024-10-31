@@ -11,3 +11,4 @@ Kubernetes React Work hard in silence, let your success be your noise. Code Revi
 Kafka Dream big and dare to fail. A/B Testing Framework API Blockchain GraphQL Firewalls Latency Optimization Great things never come from comfort zones. Version Control API Gateway
 Pull Request Big Data Deployment Neural Networks Server Response DevOps Automation Logging Happiness is not something ready made. It comes from your own actions. Success is not in what you have, but who you are. Do what you love and the money will follow.
 IoT Dream big and dare to fail. Neural Networks Content Delivery Network Cloud DNS Routing Blockchain
+Data Science Pull Request React Monitoring Logging Code Review Lambda Functions JWT Load Testing Dream big and dare to fail. Simplicity is the ultimate sophistication. Version Control Happiness is not something ready made. It comes from your own actions.
