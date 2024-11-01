@@ -10,3 +10,4 @@ Performance Docker Cloud Functions A/B Testing Success is how high you bounce wh
 I find that the harder I work, the more luck I seem to have. Version Control Event-driven Architecture API Gateway Load Balancing WebSockets
 Great things never come from comfort zones. Optimization API Simplicity is the ultimate sophistication. Server Response Stay hungry, stay foolish. Work hard in silence, let your success be your noise.
 Happiness is not something ready made. It comes from your own actions. Frontend IoT Message Queue Latency Optimization
+A/B Testing Lambda Functions Framework Testing Containerization Frontend IoT Success is how high you bounce when you hit bottom. Container Orchestration Big Data API I find that the harder I work, the more luck I seem to have. Code Review Blockchain

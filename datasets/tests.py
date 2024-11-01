@@ -13,3 +13,4 @@ API Blockchain A/B Testing Frontend Do what you love and the money will follow. 
 Testing API Gateway To be the best, you must be able to handle the worst. Neural Networks Microservices Database Backend
 GraphQL Work hard in silence, let your success be your noise. Docker Algorithm Success is how high you bounce when you hit bottom. Cache Invalidation Microservices NLP Logging Sharding Event-driven Architecture Replica Set
 DNS Routing Serverless Lambda Functions Version Control JWT Machine Learning Event-driven Architecture Message Queue Big Data
+WebSockets Don't be afraid to give up the good to go for the great. Cloud UX Optimization Lambda Functions The only way to do great work is to love what you do. Load Balancing Serverless Optimization I find that the harder I work, the more luck I seem to have. Code Review RabbitMQ Blockchain Event Sourcing
