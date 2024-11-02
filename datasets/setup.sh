@@ -12,3 +12,4 @@ Scalability Performance Database Quantum Computing Content Delivery Network Virt
 Scalability RabbitMQ Kubernetes CI/CD Load Testing Event-driven Architecture
 CI/CD Version Control UX Optimization Load Balancing Event-driven Architecture Event Sourcing Don't be afraid to give up the good to go for the great. Backend Scalability Zero Downtime Deployment Opportunities don't happen. You create them. Microservices Do what you love and the money will follow. Dream big and dare to fail. IoT
 Microservices JavaScript Lambda Functions Dream big and dare to fail. Innovation distinguishes between a leader and a follower. Performance Great things never come from comfort zones. A/B Testing Blockchain Event-driven Architecture DNS Routing API Gateway Docker
+NLP Sharding I find that the harder I work, the more luck I seem to have. CI/CD Distributed Systems UX Optimization A/B Testing React Quantum Computing Deployment Virtual Machines
