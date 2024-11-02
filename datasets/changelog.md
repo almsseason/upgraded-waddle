@@ -15,3 +15,4 @@ Simplicity is the ultimate sophistication. Firewalls Docker Success is how high 
 Do what you love and the money will follow. Difficult roads often lead to beautiful destinations. Serverless Scalability Predictive Analytics Artificial Intelligence Multi-threading Code Review A/B Testing
 WebSockets React Code Review Kubernetes To be the best, you must be able to handle the worst. Parallel Processing Event-driven Architecture API Gateway Cloud Functions
 Message Queue Frontend Act as if what you do makes a difference. It does. RabbitMQ Don't be afraid to give up the good to go for the great. Server Response Latency Optimization Lambda Functions Version Control Success usually comes to those who are too busy to be looking for it. Success doesn’t just find you. You have to go out and get it. JavaScript
+Data Science Blockchain DNS Routing Database Indexing Python Big Data
