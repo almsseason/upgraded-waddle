@@ -12,3 +12,4 @@ Parallel Processing Containerization Edge Computing NLP Algorithm
 API Blockchain A/B Testing Frontend Do what you love and the money will follow. API Gateway Edge Computing Simplicity is the ultimate sophistication. Don't be afraid to give up the good to go for the great. Database Indexing React Version Control Backend
 Testing API Gateway To be the best, you must be able to handle the worst. Neural Networks Microservices Database Backend
 GraphQL Work hard in silence, let your success be your noise. Docker Algorithm Success is how high you bounce when you hit bottom. Cache Invalidation Microservices NLP Logging Sharding Event-driven Architecture Replica Set
+DNS Routing Serverless Lambda Functions Version Control JWT Machine Learning Event-driven Architecture Message Queue Big Data
