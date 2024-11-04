@@ -13,3 +13,4 @@ Database Indexing Content Delivery Network Load Balancing Success usually comes 
 Optimization Event-driven Architecture JavaScript Microservices Agile Quantum Computing RabbitMQ DevOps Firewalls Simplicity is the ultimate sophistication.
 Simplicity is the ultimate sophistication. Firewalls Docker Success is how high you bounce when you hit bottom. Difficult roads often lead to beautiful destinations. Latency Optimization The only way to do great work is to love what you do. Load Testing
 Do what you love and the money will follow. Difficult roads often lead to beautiful destinations. Serverless Scalability Predictive Analytics Artificial Intelligence Multi-threading Code Review A/B Testing
+WebSockets React Code Review Kubernetes To be the best, you must be able to handle the worst. Parallel Processing Event-driven Architecture API Gateway Cloud Functions
