@@ -11,3 +11,4 @@ Content Delivery Network Microservices Work hard in silence, let your success be
 Content Delivery Network The only way to do great work is to love what you do. API Monitoring Cloud React A/B Testing
 Database Indexing Content Delivery Network Load Balancing Success usually comes to those who are too busy to be looking for it. Message Queue OAuth I find that the harder I work, the more luck I seem to have. API Gateway
 Optimization Event-driven Architecture JavaScript Microservices Agile Quantum Computing RabbitMQ DevOps Firewalls Simplicity is the ultimate sophistication.
+Simplicity is the ultimate sophistication. Firewalls Docker Success is how high you bounce when you hit bottom. Difficult roads often lead to beautiful destinations. Latency Optimization The only way to do great work is to love what you do. Load Testing
