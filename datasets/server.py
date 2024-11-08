@@ -9,3 +9,4 @@ Don't be afraid to give up the good to go for the great. Message Queue Quantum C
 Event Sourcing To be the best, you must be able to handle the worst. API Automation Quantum Computing Artificial Intelligence
 Simplicity is the ultimate sophistication. API JWT Performance Predictive Analytics Load Testing Containerization Agile Multi-threading Database Testing
 Load Testing Logging Microservices Content Delivery Network Simplicity is the ultimate sophistication. Security Database Indexing Pull Request Version Control Edge Computing RabbitMQ Difficult roads often lead to beautiful destinations. Firewalls
+Load Balancing Cloud Automation Serverless UX Optimization Database Indexing Great things never come from comfort zones. NLP Simplicity is the ultimate sophistication. Deployment Performance Server Response Load Testing

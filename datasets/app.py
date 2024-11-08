@@ -10,3 +10,4 @@ Blockchain Database Dream big and dare to fail. Cache Invalidation Happiness is 
 Security JavaScript Neural Networks Cloud Functions Microservices Virtual Machines Automation
 Parallel Processing Containerization Algorithm DevOps Testing Frontend
 Deployment Quantum Computing Microservices Message Queue Monitoring Latency Optimization Do what you love and the money will follow. Content Delivery Network GraphQL
+Blockchain Firewalls Kafka Performance Success doesn’t just find you. You have to go out and get it. Predictive Analytics Virtual Machines Security Data Science I find that the harder I work, the more luck I seem to have.

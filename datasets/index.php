@@ -9,3 +9,4 @@ Virtual Machines Latency Optimization A/B Testing Backend Docker Machine Learnin
 JavaScript Happiness is not something ready made. It comes from your own actions. Success doesn’t just find you. You have to go out and get it. Edge Computing Frontend
 Stay hungry, stay foolish. Latency Optimization Load Testing Artificial Intelligence Predictive Analytics Work hard in silence, let your success be your noise. Kubernetes Blockchain Opportunities don't happen. You create them. Scalability Content Delivery Network Kafka Backend Security Monitoring
 Security Framework Stay hungry, stay foolish. CI/CD Container Orchestration Testing
+Backend RabbitMQ UX Optimization Stay hungry, stay foolish. Serverless To be the best, you must be able to handle the worst. Happiness is not something ready made. It comes from your own actions. Dream big and dare to fail. Server Response JavaScript Lambda Functions NLP Scalability Monitoring
