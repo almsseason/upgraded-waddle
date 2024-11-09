@@ -10,3 +10,4 @@ Message Queue Code Review Event Sourcing Logging Machine Learning DNS Routing Ze
 JavaScript Stay hungry, stay foolish. UX Optimization I find that the harder I work, the more luck I seem to have. Optimization Simplicity is the ultimate sophistication. Lambda Functions Kubernetes Great things never come from comfort zones. JWT
 Parallel Processing Containerization Edge Computing NLP Algorithm
 API Blockchain A/B Testing Frontend Do what you love and the money will follow. API Gateway Edge Computing Simplicity is the ultimate sophistication. Don't be afraid to give up the good to go for the great. Database Indexing React Version Control Backend
+Testing API Gateway To be the best, you must be able to handle the worst. Neural Networks Microservices Database Backend
