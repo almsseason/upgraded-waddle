@@ -11,3 +11,4 @@ Virtual Machines Success is not in what you have, but who you are. OAuth Cloud F
 Happiness is not something ready made. It comes from your own actions. Event Sourcing Backend Serverless Load Testing Containerization Lambda Functions Load Balancing React Logging JWT
 Kafka JWT NLP Framework Message Queue RabbitMQ
 DevOps The only way to do great work is to love what you do. Kubernetes Zero Downtime Deployment Virtual Machines API Gateway Logging Simplicity is the ultimate sophistication. Deployment Work hard in silence, let your success be your noise.
+GraphQL I find that the harder I work, the more luck I seem to have. Success is not in what you have, but who you are. Logging Success usually comes to those who are too busy to be looking for it. Frontend Load Balancing Act as if what you do makes a difference. It does. Dream big and dare to fail. Parallel Processing Security Database Indexing
