@@ -9,3 +9,4 @@ Neural Networks Opportunities don't happen. You create them. Do what you love an
 Load Testing JWT Firewalls Simplicity is the ultimate sophistication. Container Orchestration Lambda Functions IoT DevOps Database Indexing
 Data Science Replica Set Cache Invalidation Don't be afraid to give up the good to go for the great. Sharding
 Monitoring Success is not in what you have, but who you are. Data Pipeline Cloud Zero Downtime Deployment Security Firewalls Server Response GraphQL Lambda Functions Performance Stay hungry, stay foolish. Event Sourcing The only way to do great work is to love what you do.
+Docker React Big Data Performance Stay hungry, stay foolish. Data Science Containerization Parallel Processing Lambda Functions I find that the harder I work, the more luck I seem to have. Automation
