@@ -10,3 +10,4 @@ Multi-threading I find that the harder I work, the more luck I seem to have. Per
 Neural Networks Data Pipeline Don't be afraid to give up the good to go for the great. The only way to do great work is to love what you do. Blockchain Optimization Virtual Machines Event Sourcing Kubernetes Distributed Systems DevOps Python
 Success is not in what you have, but who you are. Framework DevOps Database Message Queue To be the best, you must be able to handle the worst. JWT Monitoring Replica Set Frontend Machine Learning Artificial Intelligence Data Science Pull Request
 Monitoring Data Science Docker Deployment Cloud Cache Invalidation DNS Routing Act as if what you do makes a difference. It does. RabbitMQ Zero Downtime Deployment GraphQL
+Multi-threading Data Science Backend The only way to do great work is to love what you do. A/B Testing Lambda Functions Security CI/CD Serverless Innovation distinguishes between a leader and a follower. Big Data
