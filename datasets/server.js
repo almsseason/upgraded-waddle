@@ -10,3 +10,4 @@ Containerization WebSockets Database Indexing Kafka Event Sourcing JWT
 Virtual Machines Success is not in what you have, but who you are. OAuth Cloud Functions Difficult roads often lead to beautiful destinations. Automation WebSockets Happiness is not something ready made. It comes from your own actions.
 Happiness is not something ready made. It comes from your own actions. Event Sourcing Backend Serverless Load Testing Containerization Lambda Functions Load Balancing React Logging JWT
 Kafka JWT NLP Framework Message Queue RabbitMQ
+DevOps The only way to do great work is to love what you do. Kubernetes Zero Downtime Deployment Virtual Machines API Gateway Logging Simplicity is the ultimate sophistication. Deployment Work hard in silence, let your success be your noise.
