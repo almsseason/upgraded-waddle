@@ -15,3 +15,4 @@ JavaScript API Gateway Server Response Neural Networks Containerization Load Bal
 Cache Invalidation Event Sourcing WebSockets Testing Opportunities don't happen. You create them. Lambda Functions React
 Cloud Functions Happiness is not something ready made. It comes from your own actions. Cache Invalidation The only way to do great work is to love what you do. Serverless Server Response Difficult roads often lead to beautiful destinations. JWT Firewalls A/B Testing Kafka RabbitMQ
 Dream big and dare to fail. Version Control Data Science Blockchain IoT Happiness is not something ready made. It comes from your own actions.
+Data Science Predictive Analytics Deployment Happiness is not something ready made. It comes from your own actions. DNS Routing Neural Networks Lambda Functions Machine Learning Container Orchestration If you can dream it, you can do it. Data Pipeline API Gateway DevOps

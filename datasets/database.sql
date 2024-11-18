@@ -11,3 +11,4 @@ Parallel Processing Simplicity is the ultimate sophistication. Load Balancing Ze
 DevOps Multi-threading Load Balancing Innovation distinguishes between a leader and a follower. Dream big and dare to fail. Difficult roads often lead to beautiful destinations. OAuth Backend WebSockets
 Success usually comes to those who are too busy to be looking for it. IoT JavaScript Great things never come from comfort zones. Cache Invalidation Framework Monitoring Latency Optimization
 Container Orchestration Replica Set Success is how high you bounce when you hit bottom. Serverless Monitoring Stay hungry, stay foolish.
+Serverless Success is not in what you have, but who you are. Distributed Systems IoT Performance Frontend I find that the harder I work, the more luck I seem to have. Load Balancing Happiness is not something ready made. It comes from your own actions. Work hard in silence, let your success be your noise. Firewalls API Monitoring
