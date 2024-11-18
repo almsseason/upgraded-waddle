@@ -8,3 +8,4 @@ Optimization Dream big and dare to fail. Security Do what you love and the money
 Message Queue Optimization Edge Computing Do what you love and the money will follow. Automation Monitoring Success is how high you bounce when you hit bottom. Kubernetes Deployment Frontend
 WebSockets Act as if what you do makes a difference. It does. A/B Testing Kubernetes Edge Computing Framework Success is how high you bounce when you hit bottom. Latency Optimization
 Kubernetes React Work hard in silence, let your success be your noise. Code Review Stay hungry, stay foolish. Security
+Kafka Dream big and dare to fail. A/B Testing Framework API Blockchain GraphQL Firewalls Latency Optimization Great things never come from comfort zones. Version Control API Gateway
