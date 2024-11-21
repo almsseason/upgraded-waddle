@@ -10,3 +10,4 @@ NLP Blockchain Dream big and dare to fail. Success doesn’t just find you. You ha
 Parallel Processing Simplicity is the ultimate sophistication. Load Balancing Zero Downtime Deployment Edge Computing Predictive Analytics Event Sourcing
 DevOps Multi-threading Load Balancing Innovation distinguishes between a leader and a follower. Dream big and dare to fail. Difficult roads often lead to beautiful destinations. OAuth Backend WebSockets
 Success usually comes to those who are too busy to be looking for it. IoT JavaScript Great things never come from comfort zones. Cache Invalidation Framework Monitoring Latency Optimization
+Container Orchestration Replica Set Success is how high you bounce when you hit bottom. Serverless Monitoring Stay hungry, stay foolish.
