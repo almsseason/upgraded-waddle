@@ -8,3 +8,4 @@ Security WebSockets Deployment Algorithm Firewalls Neural Networks Python Loggin
 Cache Invalidation Quantum Computing Python Simplicity is the ultimate sophistication. Automation Version Control Stay hungry, stay foolish. IoT Security Docker API Neural Networks DevOps Blockchain
 Message Queue Code Review Event Sourcing Logging Machine Learning DNS Routing Zero Downtime Deployment CI/CD To be the best, you must be able to handle the worst. Version Control Load Balancing
 JavaScript Stay hungry, stay foolish. UX Optimization I find that the harder I work, the more luck I seem to have. Optimization Simplicity is the ultimate sophistication. Lambda Functions Kubernetes Great things never come from comfort zones. JWT
+Parallel Processing Containerization Edge Computing NLP Algorithm

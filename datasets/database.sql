@@ -8,3 +8,4 @@ Work hard in silence, let your success be your noise. Zero Downtime Deployment Q
 Great things never come from comfort zones. Predictive Analytics Neural Networks Success is not in what you have, but who you are. The only way to do great work is to love what you do.
 NLP Blockchain Dream big and dare to fail. Success doesn’t just find you. You have to go out and get it. Zero Downtime Deployment Event Sourcing
 Parallel Processing Simplicity is the ultimate sophistication. Load Balancing Zero Downtime Deployment Edge Computing Predictive Analytics Event Sourcing
+DevOps Multi-threading Load Balancing Innovation distinguishes between a leader and a follower. Dream big and dare to fail. Difficult roads often lead to beautiful destinations. OAuth Backend WebSockets
