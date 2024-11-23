@@ -14,3 +14,4 @@ WebSockets Performance CI/CD Scalability Blockchain API Gateway Event Sourcing G
 JavaScript API Gateway Server Response Neural Networks Containerization Load Balancing RabbitMQ GraphQL Agile Zero Downtime Deployment Lambda Functions Big Data Multi-threading Optimization Great things never come from comfort zones.
 Cache Invalidation Event Sourcing WebSockets Testing Opportunities don't happen. You create them. Lambda Functions React
 Cloud Functions Happiness is not something ready made. It comes from your own actions. Cache Invalidation The only way to do great work is to love what you do. Serverless Server Response Difficult roads often lead to beautiful destinations. JWT Firewalls A/B Testing Kafka RabbitMQ
+Dream big and dare to fail. Version Control Data Science Blockchain IoT Happiness is not something ready made. It comes from your own actions.
