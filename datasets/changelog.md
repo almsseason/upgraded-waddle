@@ -6,3 +6,4 @@ The only way to do great work is to love what you do. Success usually comes to t
 Algorithm Security Success is not in what you have, but who you are. WebSockets RabbitMQ Innovation distinguishes between a leader and a follower. Pull Request Cloud Functions Act as if what you do makes a difference. It does. GraphQL Sharding Dream big and dare to fail. Do what you love and the money will follow. CI/CD
 Latency Optimization Success usually comes to those who are too busy to be looking for it. Containerization Algorithm Edge Computing Event-driven Architecture Agile
 Event Sourcing RabbitMQ Algorithm Pull Request Testing WebSockets
+Great things never come from comfort zones. Data Pipeline Difficult roads often lead to beautiful destinations. Kafka Cache Invalidation Optimization RabbitMQ Load Balancing

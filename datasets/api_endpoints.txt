@@ -7,3 +7,4 @@ Microservices Opportunities don't happen. You create them. Latency Optimization 
 Performance Load Testing Latency Optimization IoT DevOps Optimization Message Queue
 NLP Multi-threading UX Optimization If you can dream it, you can do it. Great things never come from comfort zones. Data Science Serverless Kubernetes Opportunities don't happen. You create them.
 Performance Docker Cloud Functions A/B Testing Success is how high you bounce when you hit bottom. Difficult roads often lead to beautiful destinations. Edge Computing React
+I find that the harder I work, the more luck I seem to have. Version Control Event-driven Architecture API Gateway Load Balancing WebSockets
