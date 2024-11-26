@@ -14,3 +14,4 @@ Latency Optimization Great things never come from comfort zones. Logging Replica
 Backend Serverless Dream big and dare to fail. Do what you love and the money will follow. Success doesn’t just find you. You have to go out and get it. DevOps Scalability RabbitMQ
 To be the best, you must be able to handle the worst. API Gateway Parallel Processing Innovation distinguishes between a leader and a follower. JavaScript
 Python Cache Invalidation DevOps A/B Testing Simplicity is the ultimate sophistication. API Gateway Database Neural Networks Act as if what you do makes a difference. It does. Firewalls
+Event-driven Architecture Great things never come from comfort zones. Frontend Success is not in what you have, but who you are. React API Gateway IoT Opportunities don't happen. You create them. API Cloud Functions Kubernetes Server Response DNS Routing GraphQL
