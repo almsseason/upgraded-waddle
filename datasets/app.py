@@ -9,3 +9,4 @@ Innovation distinguishes between a leader and a follower. Predictive Analytics C
 Blockchain Database Dream big and dare to fail. Cache Invalidation Happiness is not something ready made. It comes from your own actions. Neural Networks Opportunities don't happen. You create them. Message Queue Artificial Intelligence
 Security JavaScript Neural Networks Cloud Functions Microservices Virtual Machines Automation
 Parallel Processing Containerization Algorithm DevOps Testing Frontend
+Deployment Quantum Computing Microservices Message Queue Monitoring Latency Optimization Do what you love and the money will follow. Content Delivery Network GraphQL
