@@ -9,3 +9,4 @@ Server Response Serverless Docker Event-driven Architecture Work hard in silence
 Neural Networks Pull Request JavaScript Act as if what you do makes a difference. It does. Deployment Database Difficult roads often lead to beautiful destinations. Don't be afraid to give up the good to go for the great. GraphQL Agile
 The only way to do great work is to love what you do. Success is not in what you have, but who you are. GraphQL Optimization Act as if what you do makes a difference. It does. Database Microservices Frontend Work hard in silence, let your success be your noise. Security Load Balancing Logging DNS Routing
 Great things never come from comfort zones. Server Response Data Pipeline JWT Pull Request
+Data Science Testing Scalability The only way to do great work is to love what you do. JavaScript Logging Security

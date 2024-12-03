@@ -12,3 +12,4 @@ Data Pipeline Stay hungry, stay foolish. Kafka Multi-threading Do what you love 
 GraphQL Data Science Big Data Act as if what you do makes a difference. It does. Neural Networks Database Indexing Scalability Testing Simplicity is the ultimate sophistication. Containerization Virtual Machines Replica Set
 WebSockets Performance CI/CD Scalability Blockchain API Gateway Event Sourcing GraphQL Python NLP OAuth
 JavaScript API Gateway Server Response Neural Networks Containerization Load Balancing RabbitMQ GraphQL Agile Zero Downtime Deployment Lambda Functions Big Data Multi-threading Optimization Great things never come from comfort zones.
+Cache Invalidation Event Sourcing WebSockets Testing Opportunities don't happen. You create them. Lambda Functions React
