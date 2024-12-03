@@ -10,3 +10,4 @@ Dream big and dare to fail. DNS Routing Act as if what you do makes a difference
 Success doesn’t just find you. You have to go out and get it. Containerization Performance A/B Testing RabbitMQ Difficult roads often lead to beautiful destinations. Scalability Pull Request The only way to do great work is to love what you do.
 Scalability Performance Database Quantum Computing Content Delivery Network Virtual Machines Happiness is not something ready made. It comes from your own actions. DNS Routing A/B Testing Great things never come from comfort zones.
 Scalability RabbitMQ Kubernetes CI/CD Load Testing Event-driven Architecture
+CI/CD Version Control UX Optimization Load Balancing Event-driven Architecture Event Sourcing Don't be afraid to give up the good to go for the great. Backend Scalability Zero Downtime Deployment Opportunities don't happen. You create them. Microservices Do what you love and the money will follow. Dream big and dare to fail. IoT
