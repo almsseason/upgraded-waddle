@@ -8,3 +8,4 @@ Machine Learning Blockchain JavaScript Version Control Deployment OAuth WebSocke
 Innovation distinguishes between a leader and a follower. Predictive Analytics Code Review NLP Success is how high you bounce when you hit bottom. Don't be afraid to give up the good to go for the great. IoT Testing Content Delivery Network
 Blockchain Database Dream big and dare to fail. Cache Invalidation Happiness is not something ready made. It comes from your own actions. Neural Networks Opportunities don't happen. You create them. Message Queue Artificial Intelligence
 Security JavaScript Neural Networks Cloud Functions Microservices Virtual Machines Automation
+Parallel Processing Containerization Algorithm DevOps Testing Frontend
