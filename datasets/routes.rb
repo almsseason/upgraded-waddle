@@ -12,3 +12,4 @@ Containerization NLP Machine Learning Database Indexing JavaScript Backend Virtu
 API Kubernetes CI/CD Serverless Lambda Functions IoT Testing Containerization Logging
 Latency Optimization Great things never come from comfort zones. Logging Replica Set Event Sourcing Parallel Processing Big Data
 Backend Serverless Dream big and dare to fail. Do what you love and the money will follow. Success doesn’t just find you. You have to go out and get it. DevOps Scalability RabbitMQ
+To be the best, you must be able to handle the worst. API Gateway Parallel Processing Innovation distinguishes between a leader and a follower. JavaScript
