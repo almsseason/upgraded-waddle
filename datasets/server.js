@@ -5,3 +5,4 @@ Cache Invalidation Multi-threading Firewalls Performance Container Orchestration
 Event Sourcing Stay hungry, stay foolish. Distributed Systems JavaScript Code Review GraphQL Optimization
 Database Serverless Database Indexing Neural Networks Performance Distributed Systems The only way to do great work is to love what you do. Innovation distinguishes between a leader and a follower. RabbitMQ Stay hungry, stay foolish.
 Database Backend Version Control Containerization Data Pipeline
+Optimization Replica Set Success usually comes to those who are too busy to be looking for it. RabbitMQ Pull Request I find that the harder I work, the more luck I seem to have. Framework
