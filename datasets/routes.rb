@@ -11,3 +11,4 @@ Difficult roads often lead to beautiful destinations. Version Control Container 
 Containerization NLP Machine Learning Database Indexing JavaScript Backend Virtual Machines Content Delivery Network Success usually comes to those who are too busy to be looking for it. Pull Request Automation IoT
 API Kubernetes CI/CD Serverless Lambda Functions IoT Testing Containerization Logging
 Latency Optimization Great things never come from comfort zones. Logging Replica Set Event Sourcing Parallel Processing Big Data
+Backend Serverless Dream big and dare to fail. Do what you love and the money will follow. Success doesn’t just find you. You have to go out and get it. DevOps Scalability RabbitMQ
