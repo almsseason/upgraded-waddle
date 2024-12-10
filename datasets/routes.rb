@@ -10,3 +10,4 @@ Algorithm Difficult roads often lead to beautiful destinations. Success usually 
 Difficult roads often lead to beautiful destinations. Version Control Container Orchestration Backend GraphQL CI/CD Distributed Systems Automation Do what you love and the money will follow. Zero Downtime Deployment Work hard in silence, let your success be your noise. Frontend
 Containerization NLP Machine Learning Database Indexing JavaScript Backend Virtual Machines Content Delivery Network Success usually comes to those who are too busy to be looking for it. Pull Request Automation IoT
 API Kubernetes CI/CD Serverless Lambda Functions IoT Testing Containerization Logging
+Latency Optimization Great things never come from comfort zones. Logging Replica Set Event Sourcing Parallel Processing Big Data
