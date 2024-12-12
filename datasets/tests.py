@@ -6,3 +6,4 @@ Success is not in what you have, but who you are. Predictive Analytics Scalabili
 Machine Learning Do what you love and the money will follow. DevOps JavaScript JWT Pull Request Algorithm Kubernetes Virtual Machines
 Security WebSockets Deployment Algorithm Firewalls Neural Networks Python Logging Difficult roads often lead to beautiful destinations. Success doesn’t just find you. You have to go out and get it. Containerization Parallel Processing Database Success is not in what you have, but who you are. Stay hungry, stay foolish.
 Cache Invalidation Quantum Computing Python Simplicity is the ultimate sophistication. Automation Version Control Stay hungry, stay foolish. IoT Security Docker API Neural Networks DevOps Blockchain
+Message Queue Code Review Event Sourcing Logging Machine Learning DNS Routing Zero Downtime Deployment CI/CD To be the best, you must be able to handle the worst. Version Control Load Balancing
