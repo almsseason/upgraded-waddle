@@ -10,3 +10,4 @@ JavaScript Kubernetes Opportunities don't happen. You create them. Success is no
 DNS Routing Cloud Don't be afraid to give up the good to go for the great. Database Do what you love and the money will follow. Monitoring
 Deployment DNS Routing Success is how high you bounce when you hit bottom. Code Review Data Science Serverless Distributed Systems UX Optimization
 Monitoring Machine Learning Database Indexing Don't be afraid to give up the good to go for the great. Great things never come from comfort zones. Testing API Zero Downtime Deployment Artificial Intelligence Load Testing Act as if what you do makes a difference. It does. Scalability Frontend
+WebSockets GraphQL Success doesn’t just find you. You have to go out and get it. Containerization Predictive Analytics Agile Act as if what you do makes a difference. It does.
