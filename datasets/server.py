@@ -7,3 +7,4 @@ Container Orchestration Microservices JWT Replica Set Difficult roads often lead
 Do what you love and the money will follow. Automation UX Optimization Artificial Intelligence Backend Agile React Success is not in what you have, but who you are. Lambda Functions Testing Stay hungry, stay foolish. Work hard in silence, let your success be your noise.
 Don't be afraid to give up the good to go for the great. Message Queue Quantum Computing Replica Set API Gateway Innovation distinguishes between a leader and a follower. Stay hungry, stay foolish. JavaScript
 Event Sourcing To be the best, you must be able to handle the worst. API Automation Quantum Computing Artificial Intelligence
+Simplicity is the ultimate sophistication. API JWT Performance Predictive Analytics Load Testing Containerization Agile Multi-threading Database Testing
