@@ -8,3 +8,4 @@ Work hard in silence, let your success be your noise. Happiness is not something
 Neural Networks Innovation distinguishes between a leader and a follower. Edge Computing Success is not in what you have, but who you are. Performance Cache Invalidation
 Algorithm Difficult roads often lead to beautiful destinations. Success usually comes to those who are too busy to be looking for it. Message Queue OAuth Edge Computing
 Difficult roads often lead to beautiful destinations. Version Control Container Orchestration Backend GraphQL CI/CD Distributed Systems Automation Do what you love and the money will follow. Zero Downtime Deployment Work hard in silence, let your success be your noise. Frontend
+Containerization NLP Machine Learning Database Indexing JavaScript Backend Virtual Machines Content Delivery Network Success usually comes to those who are too busy to be looking for it. Pull Request Automation IoT
