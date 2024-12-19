@@ -6,3 +6,4 @@ Data Pipeline Zero Downtime Deployment JWT Deployment Container Orchestration Ku
 NLP Message Queue Event Sourcing Artificial Intelligence Database Indexing Machine Learning Monitoring Virtual Machines
 Optimization Dream big and dare to fail. Security Do what you love and the money will follow. Latency Optimization Serverless Load Balancing JWT Machine Learning Automation Database Indexing Sharding
 Message Queue Optimization Edge Computing Do what you love and the money will follow. Automation Monitoring Success is how high you bounce when you hit bottom. Kubernetes Deployment Frontend
+WebSockets Act as if what you do makes a difference. It does. A/B Testing Kubernetes Edge Computing Framework Success is how high you bounce when you hit bottom. Latency Optimization
