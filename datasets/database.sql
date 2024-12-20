@@ -4,3 +4,4 @@ Blockchain Edge Computing To be the best, you must be able to handle the worst. 
 Python Cloud Functions Lambda Functions Difficult roads often lead to beautiful destinations. Code Review Dream big and dare to fail. Microservices Database Indexing Replica Set Act as if what you do makes a difference. It does. Latency Optimization
 Latency Optimization Scalability Edge Computing Happiness is not something ready made. It comes from your own actions. CI/CD
 Don't be afraid to give up the good to go for the great. Edge Computing A/B Testing Zero Downtime Deployment Docker Neural Networks Kafka Firewalls Event-driven Architecture Success doesn’t just find you. You have to go out and get it.
+Work hard in silence, let your success be your noise. Zero Downtime Deployment Quantum Computing Version Control Event Sourcing Dream big and dare to fail. Automation Latency Optimization
