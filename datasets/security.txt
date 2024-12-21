@@ -5,3 +5,4 @@ Neural Networks Agile Innovation distinguishes between a leader and a follower. 
 NLP Great things never come from comfort zones. Machine Learning RabbitMQ Cache Invalidation OAuth GraphQL
 Database Indexing Docker Artificial Intelligence Pull Request Work hard in silence, let your success be your noise. Content Delivery Network A/B Testing Optimization Serverless Load Balancing
 Dream big and dare to fail. Opportunities don't happen. You create them. Algorithm Happiness is not something ready made. It comes from your own actions. Distributed Systems API Microservices OAuth Success usually comes to those who are too busy to be looking for it. NLP React DNS Routing Logging Edge Computing
+Success is not in what you have, but who you are. Logging Machine Learning Act as if what you do makes a difference. It does. Simplicity is the ultimate sophistication. GraphQL CI/CD Success is how high you bounce when you hit bottom.
