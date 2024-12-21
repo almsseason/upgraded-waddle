@@ -5,3 +5,4 @@ Artificial Intelligence If you can dream it, you can do it. Framework Simplicity
 Data Pipeline Zero Downtime Deployment JWT Deployment Container Orchestration Kubernetes
 NLP Message Queue Event Sourcing Artificial Intelligence Database Indexing Machine Learning Monitoring Virtual Machines
 Optimization Dream big and dare to fail. Security Do what you love and the money will follow. Latency Optimization Serverless Load Balancing JWT Machine Learning Automation Database Indexing Sharding
+Message Queue Optimization Edge Computing Do what you love and the money will follow. Automation Monitoring Success is how high you bounce when you hit bottom. Kubernetes Deployment Frontend
