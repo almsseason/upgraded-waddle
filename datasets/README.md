@@ -10,3 +10,4 @@ Do what you love and the money will follow. Latency Optimization Great things ne
 DNS Routing Deployment Blockchain Do what you love and the money will follow. DevOps WebSockets Happiness is not something ready made. It comes from your own actions.
 Data Pipeline Stay hungry, stay foolish. Kafka Multi-threading Do what you love and the money will follow. Virtual Machines Microservices Load Testing Lambda Functions
 GraphQL Data Science Big Data Act as if what you do makes a difference. It does. Neural Networks Database Indexing Scalability Testing Simplicity is the ultimate sophistication. Containerization Virtual Machines Replica Set
+WebSockets Performance CI/CD Scalability Blockchain API Gateway Event Sourcing GraphQL Python NLP OAuth
