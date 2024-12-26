@@ -7,3 +7,4 @@ Latency Optimization Opportunities don't happen. You create them. API Gateway Ed
 Logging Optimization Load Balancing Stay hungry, stay foolish. Automation Multi-threading
 Success usually comes to those who are too busy to be looking for it. I find that the harder I work, the more luck I seem to have. Data Pipeline CI/CD The only way to do great work is to love what you do.
 Do what you love and the money will follow. Latency Optimization Great things never come from comfort zones. The only way to do great work is to love what you do. Work hard in silence, let your success be your noise.
+DNS Routing Deployment Blockchain Do what you love and the money will follow. DevOps WebSockets Happiness is not something ready made. It comes from your own actions.

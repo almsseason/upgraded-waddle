@@ -5,3 +5,4 @@ Virtual Machines Performance Message Queue Sharding Stay hungry, stay foolish. P
 Kubernetes CI/CD Database Version Control NLP Pull Request UX Optimization Docker
 Event Sourcing Container Orchestration Virtual Machines API Gateway React Simplicity is the ultimate sophistication. Edge Computing Sharding
 Machine Learning Blockchain JavaScript Version Control Deployment OAuth WebSockets API Gateway
+Innovation distinguishes between a leader and a follower. Predictive Analytics Code Review NLP Success is how high you bounce when you hit bottom. Don't be afraid to give up the good to go for the great. IoT Testing Content Delivery Network
