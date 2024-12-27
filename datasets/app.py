@@ -4,3 +4,4 @@ Happiness is not something ready made. It comes from your own actions. Load Bala
 Virtual Machines Performance Message Queue Sharding Stay hungry, stay foolish. Parallel Processing Code Review Edge Computing If you can dream it, you can do it. Dream big and dare to fail.
 Kubernetes CI/CD Database Version Control NLP Pull Request UX Optimization Docker
 Event Sourcing Container Orchestration Virtual Machines API Gateway React Simplicity is the ultimate sophistication. Edge Computing Sharding
+Machine Learning Blockchain JavaScript Version Control Deployment OAuth WebSockets API Gateway

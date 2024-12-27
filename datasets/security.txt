@@ -3,3 +3,4 @@ Agile Event-driven Architecture Algorithm Kafka Cloud Functions Security Code Re
 Virtual Machines Stay hungry, stay foolish. Don't be afraid to give up the good to go for the great. CI/CD NLP Event-driven Architecture Quantum Computing Work hard in silence, let your success be your noise. Neural Networks Success doesn’t just find you. You have to go out and get it. Zero Downtime Deployment Edge Computing Dream big and dare to fail. Optimization Distributed Systems
 Neural Networks Agile Innovation distinguishes between a leader and a follower. Latency Optimization UX Optimization Edge Computing JavaScript Python
 NLP Great things never come from comfort zones. Machine Learning RabbitMQ Cache Invalidation OAuth GraphQL
+Database Indexing Docker Artificial Intelligence Pull Request Work hard in silence, let your success be your noise. Content Delivery Network A/B Testing Optimization Serverless Load Balancing
