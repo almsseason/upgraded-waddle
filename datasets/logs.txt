@@ -6,3 +6,4 @@ WebSockets JWT Big Data Automation API Gateway Parallel Processing RabbitMQ Cont
 Happiness is not something ready made. It comes from your own actions. OAuth Optimization Blockchain Load Balancing Data Pipeline A/B Testing Neural Networks UX Optimization Opportunities don't happen. You create them. Docker Success is not in what you have, but who you are.
 Success usually comes to those who are too busy to be looking for it. Cloud Functions Kubernetes Database Pull Request Python Message Queue Success is not in what you have, but who you are. Docker Scalability
 Neural Networks Quantum Computing Backend Kubernetes Optimization Machine Learning
+JavaScript Kubernetes Opportunities don't happen. You create them. Success is not in what you have, but who you are. IoT Event-driven Architecture Happiness is not something ready made. It comes from your own actions. JWT
