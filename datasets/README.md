@@ -5,3 +5,4 @@ Success doesn’t just find you. You have to go out and get it. A/B Testing React 
 Testing Replica Set Zero Downtime Deployment Artificial Intelligence Version Control Database Multi-threading Database Indexing
 Latency Optimization Opportunities don't happen. You create them. API Gateway Edge Computing React Quantum Computing
 Logging Optimization Load Balancing Stay hungry, stay foolish. Automation Multi-threading
+Success usually comes to those who are too busy to be looking for it. I find that the harder I work, the more luck I seem to have. Data Pipeline CI/CD The only way to do great work is to love what you do.
