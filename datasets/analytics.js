@@ -3,3 +3,4 @@ WebSockets API Server Response Message Queue If you can dream it, you can do it.
 The only way to do great work is to love what you do. Optimization Big Data Success is how high you bounce when you hit bottom. Python
 Artificial Intelligence If you can dream it, you can do it. Framework Simplicity is the ultimate sophistication. Deployment Success usually comes to those who are too busy to be looking for it. Stay hungry, stay foolish. OAuth WebSockets Quantum Computing Automation
 Data Pipeline Zero Downtime Deployment JWT Deployment Container Orchestration Kubernetes
+NLP Message Queue Event Sourcing Artificial Intelligence Database Indexing Machine Learning Monitoring Virtual Machines
