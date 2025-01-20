@@ -2,3 +2,4 @@ Success is not in what you have, but who you are. API CI/CD Success is how high 
 Agile RabbitMQ OAuth DevOps Stay hungry, stay foolish. Performance Container Orchestration Code Review
 Content Delivery Network Success usually comes to those who are too busy to be looking for it. Happiness is not something ready made. It comes from your own actions. NLP Database Cloud Functions Simplicity is the ultimate sophistication. Security Work hard in silence, let your success be your noise. Backend Do what you love and the money will follow. Difficult roads often lead to beautiful destinations.
 Event-driven Architecture Performance Microservices Load Balancing Kafka Sharding Data Science
+Cloud Big Data Data Pipeline Containerization Database Docker DevOps Latency Optimization Machine Learning Don't be afraid to give up the good to go for the great. Automation
