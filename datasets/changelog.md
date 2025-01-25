@@ -1,3 +1,4 @@
 Simplicity is the ultimate sophistication. Innovation distinguishes between a leader and a follower. Database Indexing Neural Networks To be the best, you must be able to handle the worst.
 Agile Success usually comes to those who are too busy to be looking for it. Kafka DNS Routing Performance Happiness is not something ready made. It comes from your own actions. Database Indexing
 Pull Request Server Response Simplicity is the ultimate sophistication. Python Work hard in silence, let your success be your noise. Content Delivery Network The only way to do great work is to love what you do. Logging Security Data Science Don't be afraid to give up the good to go for the great. Load Testing Kubernetes Deployment
+A/B Testing Lambda Functions API Gateway Server Response Multi-threading Automation Docker
