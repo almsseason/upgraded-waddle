@@ -1,1 +1,2 @@
 Framework Dream big and dare to fail. Optimization If you can dream it, you can do it. Predictive Analytics Happiness is not something ready made. It comes from your own actions.
+If you can dream it, you can do it. A/B Testing Algorithm Opportunities don't happen. You create them. Sharding Don't be afraid to give up the good to go for the great. Success is not in what you have, but who you are. Agile Serverless Parallel Processing CI/CD Deployment Success doesn’t just find you. You have to go out and get it.
