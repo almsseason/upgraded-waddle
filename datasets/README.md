@@ -2,3 +2,4 @@ Database Indexing Cloud Functions IoT Load Testing Python React Agile Machine Le
 Lambda Functions Act as if what you do makes a difference. It does. Cache Invalidation Performance Algorithm Monitoring Data Science Framework Backend I find that the harder I work, the more luck I seem to have. Microservices To be the best, you must be able to handle the worst. Kafka Zero Downtime Deployment
 Version Control NLP CI/CD Event Sourcing OAuth Load Balancing Testing If you can dream it, you can do it. Kafka Message Queue
 Success doesn’t just find you. You have to go out and get it. A/B Testing React Database Indexing Optimization Agile Deployment Act as if what you do makes a difference. It does. Cache Invalidation Predictive Analytics
+Testing Replica Set Zero Downtime Deployment Artificial Intelligence Version Control Database Multi-threading Database Indexing
