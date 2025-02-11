@@ -1,1 +1,2 @@
 Kubernetes IoT Message Queue NLP Simplicity is the ultimate sophistication. Stay hungry, stay foolish. Sharding Agile CI/CD Dream big and dare to fail.
+Kubernetes Multi-threading Success is how high you bounce when you hit bottom. JavaScript Blockchain Event Sourcing Testing Opportunities don't happen. You create them. Machine Learning Success doesn’t just find you. You have to go out and get it. Containerization Data Pipeline OAuth Frontend
